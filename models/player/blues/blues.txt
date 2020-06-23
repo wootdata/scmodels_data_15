@@ -1,0 +1,14 @@
+Hi,
+this is the model blues for multiplayer deathmatch gaming.
+
+It's Jake Blues from the fabulous Blues Brothers.
+
+Extract into valve\models\player\blues\  in the Hl dir!
+
+Enjoy it !
+
+
+02 February 1999
+
+Dr.Tyrell
+kmaylahn@3danimation.de
