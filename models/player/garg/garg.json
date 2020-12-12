@@ -1,1 +1,1 @@
-{"tri_count": "3124", "events": [{"frame": "7", "seq": "1", "file": "garg/gar_attack1.wav"}, {"frame": "31", "seq": "15", "file": "garg/gar_pain1.wav"}], "seq_groups": 1}
+{"seq_groups": 1, "events": [{"frame": "7", "seq": "1", "file": "garg/gar_attack1.wav"}, {"frame": "31", "seq": "15", "file": "garg/gar_pain1.wav"}], "tri_count": "3124", "hash": "30dcc42c63c95038ea65675bb5651337"}
