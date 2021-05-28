@@ -1,1 +1,1 @@
-{"events": [{"file": "player/playersounds/ts/dive.wav", "frame": "4", "seq": "9"}], "tri_count": "3216", "hash": "379d55d80894debabd5ca7125e6e0ce9", "seq_groups": 1}
+{"seq_groups": 1, "hash": "379d55d80894debabd5ca7125e6e0ce9", "tri_count": "3216", "events": [{"seq": "9", "frame": "4", "file": "player/playersounds/ts/dive.wav"}]}

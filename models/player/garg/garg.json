@@ -1,1 +1,1 @@
-{"events": [{"file": "garg/gar_attack1.wav", "frame": "7", "seq": "1"}, {"file": "garg/gar_pain1.wav", "frame": "31", "seq": "15"}], "tri_count": "3124", "hash": "30dcc42c63c95038ea65675bb5651337", "seq_groups": 1}
+{"seq_groups": 1, "hash": "30dcc42c63c95038ea65675bb5651337", "tri_count": "3124", "events": [{"seq": "1", "frame": "7", "file": "garg/gar_attack1.wav"}, {"seq": "15", "frame": "31", "file": "garg/gar_pain1.wav"}]}
