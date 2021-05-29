@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "6d5d4217b18ccfee7a2c653ee7dbaccf", "tri_count": "20"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "large_rock_reference",
+					"polys": 20,
+					"verts": 12
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "6d5d4217b18ccfee7a2c653ee7dbaccf",
+	"name": "valve/models/big_rock.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 50,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "GeoSphere01",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 160,
+			"name": "rock.bmp",
+			"width": 160
+		}
+	],
+	"version": 10
+}

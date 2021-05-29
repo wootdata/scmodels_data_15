@@ -1,1 +1,195 @@
-{"seq_groups": 1, "hash": "b90c04ad58be3e5a98a38820017ffd88", "tri_count": "374"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "snapbug_Template_Biped1",
+					"polys": 374,
+					"verts": 194
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "b90c04ad58be3e5a98a38820017ffd88",
+	"name": "valve/models/snapbug.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone07",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": 0
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 2
+		}, 
+		{
+			"name": "",
+			"parent": 3
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 5
+		}, 
+		{
+			"name": "",
+			"parent": 6
+		}, 
+		{
+			"name": "",
+			"parent": 1
+		}, 
+		{
+			"name": "",
+			"parent": 8
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 12
+		}, 
+		{
+			"name": "",
+			"parent": 13
+		}, 
+		{
+			"name": "",
+			"parent": 14
+		}, 
+		{
+			"name": "",
+			"parent": 10
+		}, 
+		{
+			"name": "",
+			"parent": 16
+		}, 
+		{
+			"name": "",
+			"parent": 17
+		}, 
+		{
+			"name": "",
+			"parent": 18
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 20
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 22
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 24
+		}, 
+		{
+			"name": "",
+			"parent": 9
+		}, 
+		{
+			"name": "",
+			"parent": 26
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 122,
+			"name": "SB_Top1.bmp",
+			"width": 84
+		}, 
+		{
+			"flags": 0,
+			"height": 44,
+			"name": "SB_Front2.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 41,
+			"name": "SB_Tooth-Fnt1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 77,
+			"name": "SB_Bottom1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "SB_Butt1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 28,
+			"name": "SB_ToothMid1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 70,
+			"name": "SB_Leg1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "SB_Lip1.bmp",
+			"width": 16
+		}
+	],
+	"version": 10
+}

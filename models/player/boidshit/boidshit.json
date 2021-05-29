@@ -1,1 +1,61 @@
-{"seq_groups": 1, "hash": "20e54c15e17cc7cbc999b266f31e585c", "tri_count": "24"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "bird_fly1",
+					"polys": 24,
+					"verts": 14
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "20e54c15e17cc7cbc999b266f31e585c",
+	"name": "valve/models/boid.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 21,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bone01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone06",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 3
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 72,
+			"name": "B_Top1.bmp",
+			"width": 208
+		}
+	],
+	"version": 10
+}
