@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "Raptor",
-					"polys": 3090,
-					"verts": 1636
+					"name": "DM_Gordon_Head1",
+					"polys": 362,
+					"verts": 183
+				}, 
+				{
+					"name": "Gordon_Hi-ResDM1",
+					"polys": 639,
+					"verts": 343
 				}
 			],
 			"name": "body"
@@ -146,44 +146,44 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "a47ae2f1e7a037c73b7ff058147ea0f3",
-	"name": "grunt.mdl",
+	"md5": "725ae4bd19c4345388c5624a8fc3fc9b",
+	"name": "spidey.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1214,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1414896,
+	"size": 1037248,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1291,28 +1336,16 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
 			"name": "Bip01 L Finger1",
 			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 21
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 L Finger12",
-			"parent": 22
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1320,39 +1353,83 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 29
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Finger1",
-			"parent": 27
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 31
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Finger12",
+			"parent": 26
+		}, 
+		{
+			"name": "Dummy08",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 28
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 30
+		}, 
+		{
+			"name": "Dummy03",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone07",
 			"parent": 32
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 13
+		}, 
+		{
+			"name": "Bone13",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 36
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 40
 		}
 	],
 	"skins": 1,
@@ -1360,69 +1437,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "soldier_head_grunt_wht.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_helmet.bmp",
-			"width": 96
-		}, 
-		{
-			"flags": 0,
-			"height": 384,
-			"name": "soldier_body.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_hand_wht.bmp",
+			"height": 254,
+			"name": "DM_Base.bmp",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "soldier_arm_wht.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_pouches.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 125,
-			"name": "wp_grenade.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 131,
-			"name": "soldier_backpack.bmp",
-			"width": 236
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_holster.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 63,
-			"name": "soldier_holster_pistol.bmp",
+			"height": 94,
+			"name": "DM_Face.bmp",
 			"width": 124
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_boots.bmp",
-			"width": 192
 		}
 	],
 	"version": 10

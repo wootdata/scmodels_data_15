@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -25,12 +25,12 @@
 		{
 			"models": [
 				{
-					"name": "Raptor",
-					"polys": 3090,
-					"verts": 1636
+					"name": "Krotchy1",
+					"polys": 1858,
+					"verts": 952
 				}
 			],
-			"name": "body"
+			"name": "gatiito_sc"
 		}
 	],
 	"controllers": [
@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "a47ae2f1e7a037c73b7ff058147ea0f3",
-	"name": "grunt.mdl",
+	"md5": "c444b5d205f6a1cbb351346e099f7bd8",
+	"name": "Krotchy.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -352,7 +352,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 37,
+			"frames": 21,
 			"name": "long_jump"
 		}, 
 		{
@@ -1214,9 +1214,59 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 10,
+			"name": "ImperiumSvenCoop"
 		}
 	],
-	"size": 1414896,
+	"size": 1106936,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,48 +1321,20 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1320,39 +1342,19 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 32
+			"name": "Bip01 Head",
+			"parent": 12
 		}
 	],
 	"skins": 1,
@@ -1360,69 +1362,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "soldier_head_grunt_wht.bmp",
-			"width": 384
+			"height": 512,
+			"name": "Krotchy.bmp",
+			"width": 512
 		}, 
 		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_helmet.bmp",
-			"width": 96
-		}, 
-		{
-			"flags": 0,
-			"height": 384,
-			"name": "soldier_body.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_hand_wht.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_arm_wht.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_pouches.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 125,
-			"name": "wp_grenade.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 131,
-			"name": "soldier_backpack.bmp",
-			"width": 236
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "soldier_holster.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 63,
-			"name": "soldier_holster_pistol.bmp",
-			"width": 124
-		}, 
-		{
-			"flags": 0,
-			"height": 192,
-			"name": "soldier_boots.bmp",
-			"width": 192
+			"flags": 64,
+			"height": 32,
+			"name": "null.bmp",
+			"width": 32
 		}
 	],
 	"version": 10

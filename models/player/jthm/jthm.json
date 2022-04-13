@@ -14,6 +14,11 @@
 			"bone": 27,
 			"name": "",
 			"type": 0
+		}, 
+		{
+			"bone": 17,
+			"name": "",
+			"type": 0
 		}
 	],
 	"bodies": [
@@ -296,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "8ef523cad846b80b861696b21c6d66f5",
-	"name": "JTHM.mdl",
+	"md5": "4e5dcb79b17c1183f5e251842076932c",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\model",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1211,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 881836,
+	"size": 879644,
 	"skeleton": [
 		{
 			"name": "Bip01",
