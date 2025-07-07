@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -290,7 +291,11 @@
 	],
 	"id": 1414743113,
 	"md5": "493c61083c23390ef71df149c63da96a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "darkangel.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

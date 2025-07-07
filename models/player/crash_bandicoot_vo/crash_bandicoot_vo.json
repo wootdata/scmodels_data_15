@@ -33,6 +33,7 @@
 			"name": "Crash_Bandicoot"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b67ada0db2394abd3fb085a55cc946d5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "crash_bandicoot.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

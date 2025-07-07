@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -334,7 +335,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0d0b0781d47a53fc08c7afe5f285f2c3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bm_hgrunt_band.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

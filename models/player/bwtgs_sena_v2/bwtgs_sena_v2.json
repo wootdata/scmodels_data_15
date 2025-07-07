@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -392,7 +393,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0e32f5457b8ba4ed82d60548d80c0df1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sana.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

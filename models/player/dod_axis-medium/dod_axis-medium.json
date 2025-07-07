@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -288,7 +289,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2b09ebadceb0b118828fc56afb6f6210",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../compiled/dod_axis-medium.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

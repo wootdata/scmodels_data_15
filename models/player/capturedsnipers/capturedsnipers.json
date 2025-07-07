@@ -103,6 +103,7 @@
 			"name": "pelvis_uzi2"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6f2b562155ea15a4ab3d18baf2a6dfa8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "snipers.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

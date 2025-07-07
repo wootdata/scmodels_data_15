@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "33cb239f69f1bcd5fc871faecc8e318c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hari_hev_noflowers.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

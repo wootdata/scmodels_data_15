@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -520,7 +521,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e5d233ee49e7aa1888c710267493272",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Allied2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

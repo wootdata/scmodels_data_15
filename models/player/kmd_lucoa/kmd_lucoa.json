@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -409,7 +410,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7badef7de7033eddd4cb3c929a3e101a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KMD_Lucoa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

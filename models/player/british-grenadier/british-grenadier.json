@@ -72,6 +72,7 @@
 			"name": "beard"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "534c7b8dd6e9b317d7b8e2a01230bcf1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "british-grenadier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

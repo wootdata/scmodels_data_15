@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b518aa9f5674ffc9f5e91c2ad271336f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MKD_Raiden.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -171,7 +172,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4e510005fcd8c9a7a8f99662c2370304",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\game\\half_life\\tool\\model\\hos3\\pack\\usada.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -93,6 +93,7 @@
 			"name": "CyborgNinja"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f04b03d215879f009a0b1241306f72cf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\svencoop modific\\KF\\Nueva carpeta (3)\\CyborgNinja.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

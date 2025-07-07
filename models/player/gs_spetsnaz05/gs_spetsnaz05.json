@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8b5f8b205dbddb57d136c31ae47937f0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Spetsnaz05.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

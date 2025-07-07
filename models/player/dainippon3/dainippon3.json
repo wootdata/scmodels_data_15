@@ -63,6 +63,7 @@
 			"name": "gear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -382,7 +383,11 @@
 	],
 	"id": 1414743113,
 	"md5": "63cdf33b0a656a537dbc9be357dad7e2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dainippon3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

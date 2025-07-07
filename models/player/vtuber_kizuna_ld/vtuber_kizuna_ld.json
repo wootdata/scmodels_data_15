@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -771,7 +772,11 @@
 	],
 	"id": 1414743113,
 	"md5": "df5e7d5b3d8fde0c569dbe0ab17dc1bc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kizuna_ld.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

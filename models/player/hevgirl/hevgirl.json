@@ -43,6 +43,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 36,
@@ -297,7 +298,11 @@
 	],
 	"id": 1414743113,
 	"md5": "be3c60e868c21afe9d1de2412117e218",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HevGirl.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

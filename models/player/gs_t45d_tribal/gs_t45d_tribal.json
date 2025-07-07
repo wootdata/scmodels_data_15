@@ -113,6 +113,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "515cb23f31cc6bc6e08030397db0ac01",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_RabbitGirl.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1147501960,
 	"events": [],
 	"id": 1414743113,
 	"md5": "b90c04ad58be3e5a98a38820017ffd88",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/snapbug.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

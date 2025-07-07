@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1579695884,
 	"events": [
@@ -351,7 +352,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a0d349c8505936397744dfcd2978c8eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cso_jpngirl.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

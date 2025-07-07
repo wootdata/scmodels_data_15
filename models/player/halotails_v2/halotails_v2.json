@@ -33,6 +33,7 @@
 			"name": "Miles_'Tails'_Prower"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -365,7 +366,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3c838ce88de9196931be05e6ffb83654",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "halotails.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "31397f098ddf36c4f35b0834aa95cf47",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HL2_gina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

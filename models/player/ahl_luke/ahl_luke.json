@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dd2c4bcf0915d0f5d96e9cc8309d6657",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ahl_luke.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

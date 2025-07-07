@@ -183,6 +183,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -453,7 +454,11 @@
 	],
 	"id": 1414743113,
 	"md5": "10e83bfc72bf4d387c938fdae4de5748",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "flandre.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

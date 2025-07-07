@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1619578138,
 	"events": [
@@ -265,7 +266,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2baae0eecc9ea768d2b5332fb641f202",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "2d_souf_bastid.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

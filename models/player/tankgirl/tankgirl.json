@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1eae95798fb4e3938d1409d9618df6ba",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Sierra\\Half-Life\\valve\\models\\player\\Fraggety_Ann\\Fraggety_An",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

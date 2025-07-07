@@ -113,6 +113,7 @@
 			"name": "crystalhurt3"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -432,7 +433,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f647eda8fee390e6238b2bdb4772e143",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "capturedsiler.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

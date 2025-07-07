@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c962b122c1e11191b6131096be827723",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\models\\Punisher\\test.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

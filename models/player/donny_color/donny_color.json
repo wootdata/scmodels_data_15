@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -582,7 +583,11 @@
 	],
 	"id": 1414743113,
 	"md5": "83672e0c9de5048f9047016a3d59afdb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Yervin\\Documents\\Modelos 3d\\Modelo completo Sven Co-op\\+",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

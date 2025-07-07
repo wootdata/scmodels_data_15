@@ -243,6 +243,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -920,7 +921,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e1431b135165615f1e1507a5ce59bb8a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Shiromi_Iori.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

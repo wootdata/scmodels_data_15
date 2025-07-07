@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bd50d0d9b524c59baa21bd1a390e85a9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SwatJimHelm.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

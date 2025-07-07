@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -390,7 +391,11 @@
 	],
 	"id": 1414743113,
 	"md5": "650722e22b73896f321a131b2f9a1409",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Allan\\Desktop\\SovArmymoto_1970cm\\SovArmymoto_1970cm.mdl\"",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

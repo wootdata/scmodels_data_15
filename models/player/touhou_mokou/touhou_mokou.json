@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "da6fba6d59e03eb5e7d786be8d1c56ab",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_mokou.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

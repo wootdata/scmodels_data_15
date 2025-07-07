@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1629045395,
 	"events": [],
 	"id": 1414743113,
 	"md5": "042e634dc650b97a0d7e5a82ad9de8de",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "forkliftshit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

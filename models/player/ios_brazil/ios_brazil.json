@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d3885103dde99cb723f240bc3a6db1eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ios_brazil.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

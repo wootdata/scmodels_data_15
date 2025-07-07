@@ -268,6 +268,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -608,7 +609,11 @@
 	],
 	"id": 1414743113,
 	"md5": "336254edf7ae15844481b680c3d0dab4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

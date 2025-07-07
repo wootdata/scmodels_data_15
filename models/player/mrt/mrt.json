@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "34bb8948fbc3e3405de75bd61e930f77",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:/Half-Life/valve/models/player/mrt/mrt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

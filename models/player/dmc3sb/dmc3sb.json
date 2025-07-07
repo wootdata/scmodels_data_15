@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 21,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "925321975eb09b1ab3a409602434a7aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dmc3sb.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

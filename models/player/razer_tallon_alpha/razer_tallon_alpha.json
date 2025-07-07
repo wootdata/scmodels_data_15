@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b5e41f2a038a2dc01ef93ba612c09413",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Razer_Tallon Alpha.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

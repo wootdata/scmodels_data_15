@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -798,7 +799,11 @@
 	],
 	"id": 1414743113,
 	"md5": "870027fccdf5cdc7f11af68992ba1657",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hololive_Fubuki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
