@@ -750,6 +750,7 @@
 	"md5": "a4f51011a5bad1543482029d738d3d93",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "Models\\Snake.mdl",
 	"preview": true,
 	"readme": false,
