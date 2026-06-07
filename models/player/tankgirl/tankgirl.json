@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 970472000,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "1eae95798fb4e3938d1409d9618df6ba",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\Sierra\\Half-Life\\valve\\models\\player\\Fraggety_Ann\\Fraggety_An",
 	"preview": true,
 	"readme": false,

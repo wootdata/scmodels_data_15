@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 958747680,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "1416195c42e45d6cdec423c00a6f286c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\bruvfemale\\bruvfemale.mdl",
 	"preview": true,
 	"readme": true,

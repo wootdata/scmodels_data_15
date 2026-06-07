@@ -57,7 +57,7 @@
 			"type": 32
 		}
 	],
-	"date": 1281800486,
+	"date": 1780811528,
 	"events": [
 		{
 			"event": 6,
@@ -239,6 +239,7 @@
 	"md5": "30dcc42c63c95038ea65675bb5651337",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "garg.mdl",
 	"preview": true,
 	"readme": false,
